@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-npm":{"specfileHash":"f3a1b072d9db954d5c77aa3ce58edd13","lockfileHash":"c9fba92a6ac5e73d9d7cda7e88299a75","guessedImports":["@tomphttp/bare-server-node","serve-static","jsdom","underscore","jquery","ws","phaser"],"guessedImportsHash":"27e35dad1865924ae4518f82c31484b0"}}}
